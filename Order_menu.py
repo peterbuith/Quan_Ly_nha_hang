@@ -12,7 +12,7 @@ DATA_HISTORY = "lich_su_thanh_toan.csv"     # Lưu lịch sử các hóa đơn �
 
 # Danh sách 10 món ăn cố định (Menu) kèm Emoji
 MENU = {
-    "Nước mía": 8000,
+    "Nước mía": 10000,
     "Nước dừa tươi": 15000,
     "Nước ngọt các loại": 15000,
     "Sting": 20000,
