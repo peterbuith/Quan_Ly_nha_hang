@@ -21,7 +21,8 @@ MENU = {
     "Nước ép trái cây": 35000,
     "Cà Phê Sữa Đá": 20000,
     "Mì gói": 15000,
-    "Mì trứng gà": 20000
+    "Mì trứng gà": 20000,
+    "Mì trứng gà đặt biệt": 100000
 }
 
 # --- HÀM XỬ LÝ DỮ LIỆU ---
